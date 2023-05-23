@@ -1,0 +1,48 @@
+.rodapeComponente{
+    background-color: #6278F7;
+    width: 100%;
+    margin-bottom: 0px;
+    height: 233px;
+    align-items: center;
+    display: flex;
+    padding-left: 30px;
+    
+}
+
+.rodapeComponente div{
+    width: 100%;
+    display: flex;
+}
+
+.rodapeComponente ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.rodapeComponente a{
+    cursor: pointer;
+}
+.imagens{
+    width: 17%;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.imagens img{
+    width: 26px;
+}
+.rodapeComponente p{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+position: absolute;
+right: 10%;
+margin-top: 45px;
+}
+.rodapeComponente .logo{
+    position: absolute;
+    right: 42%;
+    margin-top: 24px;
+}
